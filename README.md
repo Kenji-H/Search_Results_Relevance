@@ -1,4 +1,6 @@
-# Search_Results_Relevance
+# A Solution to [Search Results Relevance](https://www.kaggle.com/c/crowdflower-search-relevance)
+
+![process of the solution](/process.png)
 
 ###1. Text Preprocessing
   lower-case transformation
