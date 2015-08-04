@@ -3,9 +3,9 @@
 ![process of the solution](/process.png)
 
 ###1. Text Preprocessing
-  lower-case transformation
-  stop-words elimination
-  stemming
+  lower-case transformation  
+  stop-words elimination  
+  stemming  
   query extention(\*1)
 
 ###2. Feature Engineering
